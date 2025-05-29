@@ -379,7 +379,7 @@ def login_page():
         with col4:
             st.markdown("   ")
 
-genai.configure(api_key="AIzaSyCfzJ_B-5Dv7LukfPcxr4urmNzzz4VqPGA")
+genai.configure(api_key="your api key")
 
 
 
